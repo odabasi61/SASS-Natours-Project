@@ -13,4 +13,21 @@
     ),
     url(../img/nat-4.jpg);
   background-size: cover;
+  transform: skewY(-7deg);
+  margin-top: -11.5rem;
+
+  & > * {
+    transform: skewY(7deg);
+  }
+}
+
+.section-tours {
+  background-color: $color-grey-light-1;
+  padding: 25rem 0 15rem 0;
+  margin-top: -11.5rem;
+}
+
+.section-stories {
+  background-color: $color-grey-light-1;
+  padding: 15rem 0;
 }
