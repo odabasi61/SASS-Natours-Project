@@ -1,6 +1,6 @@
 # HTML-CSS-SCSS-Nature-Tour-Project-Name-Natours-Project-Responsive
 
-Natours Project: a beautiful nature tour project
+Natours Project: a beautiful nature tour project. In this nicely done project i used advance css techniques and scss.
 
 https://odabasi61.github.io/Natours-Project/
 
